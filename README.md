@@ -57,9 +57,9 @@ Analyzing this dataset aim to answer the following:
 
 --What age category miss the appointment most and why?
 
---Is waiting days a factor for shoing up for appointment?
+--Is waiting days a factor for showing up for appointment?
 
---Does SMS received promp patient to show for their appointment?
+--Does SMS received prompt patient to show for their appointment?
 
 --Does patients enrollment in Brasillian Welfare program(i.e scholarship) affect their appointment
 
