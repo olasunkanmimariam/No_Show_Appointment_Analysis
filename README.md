@@ -96,7 +96,7 @@ Here are some insights uncovered:
 The dataset contains incorrect data, such as patients under the age of 0 and those with negative waiting days values. This could be a result of data entry errors.
 Further information, such as type of appointment (routine check-up, specialist visit, lab test), brief medical history, will benefit our analysis.
 
-##### In conclusion:
+#### **In conclusion:**
 A regular SMS should be sent to the patients regarding their appointment date.
 
 A patient's appointment date should be scheduled within a short time period, as long waiting days would result in the patient not showing up later.
